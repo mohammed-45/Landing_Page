@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Frontend Mentor - Clipboard landing page
 
 ![Design preview for the Clipboard landing page coding challenge](./design/desktop-preview.jpg)
@@ -90,3 +91,7 @@ We love receiving feedback! We're always looking to improve our challenges and o
 This challenge is completely free. Please share it with anyone who will find it useful for practice.
 
 **Have fun building!** 🚀
+=======
+# Landing_Page
+Simple Landing_Page with html-css
+>>>>>>> de48d8dd7139e360c5eea6f79f68ef8571974b94
